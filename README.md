@@ -20,6 +20,6 @@ SrNo. | Name | Handle 1 | Handle 2 | Handle 3
 3.| Vedant Khairnar | [Twitter](https://twitter.com/VedantKhairnar3)| [Linkedin](https://linkedin.com/in/vedantkhairnar)| [Github](https://github.com/VedantKhairnar) 
 4.| Ricardo Prins |[Twitter](https://twitter.com/thericardoprins) |[LinkedIn](https://linkedin.com/ricprins) |[Github](https://github.com/ricardoprins)
 5.| Pallavi Agarwal| [Twitter](https://twitter.com/mon_nom_pallavi)| [LinkedIn](https://www.linkedin.com/in/pallavi-agrawal-learner/)| [Github](https://github.com/pallaviagrawal1729)
-6. | Debanjana Bhattacharya | [Github](https://github.com/DEBANJANAB)||
-7. |Ganesh Tiwari | [Twitter](https://twitter.com/ganeshtiwari786)|[LinkedIn](https://linkedin.com/in/gat786)|[Github](https://github.com/gat786)|
-8. | Mursal Furqan | [Facebook](https://www.facebook.com/mursal.furqan)| [LinkedIn](https://www.linkedin.com/in/mursalfurqan/)| [Github](https://www.github.com/mursalfk)
+6.| Debanjana Bhattacharya | [Twitter]() |[LinkedIn](https://www.linkedin.com/in/debanjona-bhattacharjya-0858a4165/)|[Github](https://github.com/DEBANJANAB)
+7.|Ganesh Tiwari | [Twitter](https://twitter.com/ganeshtiwari786)|[LinkedIn](https://linkedin.com/in/gat786)|[Github](https://github.com/gat786)|
+8.| Mursal Furqan | [Facebook](https://www.facebook.com/mursal.furqan)| [LinkedIn](https://www.linkedin.com/in/mursalfurqan/)| [Github](https://www.github.com/mursalfk)
